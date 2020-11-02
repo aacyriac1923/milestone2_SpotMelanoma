@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47754234259",
+    "firebase_url": "https://spotmelanoma-ab364.firebaseio.com",
+    "project_id": "spotmelanoma-ab364",
+    "storage_bucket": "spotmelanoma-ab364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47754234259:android:f3a1f59907bf2990108066",
+        "android_client_info": {
+          "package_name": "com.aac.spotmelanoma_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47754234259-nij2l0c2mh91b277a55e7h6kierau42v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1tqssom_IAf2hylhRL5Wfd0TgjIF-kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47754234259-nij2l0c2mh91b277a55e7h6kierau42v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
